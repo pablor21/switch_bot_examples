@@ -1,4 +1,4 @@
 httpx==0.23.3
 python-dotenv==0.21.0
-swibots==1.0.4
+swibots==1.0.5
 websockets==10.4
